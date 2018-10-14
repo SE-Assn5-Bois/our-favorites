@@ -1,4 +1,7 @@
+[Indian]
 Chicken Vindaloo
+[American]
 Chick-Fil-A Nuggets
+[Italian]
 Meatball Sub Sandwiches
 Pizza
